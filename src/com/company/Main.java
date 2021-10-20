@@ -5,7 +5,7 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        JFrame w= new JFrame("CacularorAndGraphs");
+        JFrame w= new JFrame("CaculatorAndGraphs");
         w.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         Toolkit toolkit= Toolkit.getDefaultToolkit();
         Dimension screen = toolkit.getScreenSize();
